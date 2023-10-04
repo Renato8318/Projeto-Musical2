@@ -1,0 +1,14 @@
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\bin\Debug\net6.0\Projeto Musical2.exe
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\bin\Debug\net6.0\Projeto Musical2.deps.json
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\bin\Debug\net6.0\Projeto Musical2.runtimeconfig.json
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\bin\Debug\net6.0\Projeto Musical2.dll
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\bin\Debug\net6.0\Projeto Musical2.pdb
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\Projeto Musical2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\Projeto Musical2.AssemblyInfoInputs.cache
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\Projeto Musical2.AssemblyInfo.cs
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\Projeto Musical2.csproj.CoreCompileInputs.cache
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\Projeto Musical2.dll
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\refint\Projeto Musical2.dll
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\Projeto Musical2.pdb
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\Projeto Musical2.genruntimeconfig.cache
+C:\Users\paiva\OneDrive\Documentos\Projeto Musical\Projeto Musical2\Projeto Musical2\obj\Debug\net6.0\ref\Projeto Musical2.dll
